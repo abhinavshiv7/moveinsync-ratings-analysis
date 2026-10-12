@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated datasets and analysis outputs
+data/raw/
+data/collection_audit.json
+analysis/build/
+output/
+*.xlsx
+*.pptx
+*.pdf
+*.ndjson
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
